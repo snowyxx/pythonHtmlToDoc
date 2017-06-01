@@ -7,7 +7,6 @@ But it does not come with a index page and navigator to let me view it as a site
 
 And I need a docx file include all content of these html files.
 
-So:
 
 So this tool try to: 
 

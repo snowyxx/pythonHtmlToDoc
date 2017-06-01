@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><site>
+<!-- just an exmple file of help.xml to show what kind of nodes it included -->
+  <pages>
+<page>
+  <topic_id>1803946</topic_id>
+  <topic_type>0</topic_type>
+  <topic_title>7 / 30 Reports</topic_title>
+  <topic_status>1</topic_status>
+  <topic_toc>1</topic_toc>
+  <toc_name>7 / 30报表</toc_name>
+  <topic_index>0</topic_index>
+  <index_name></index_name>
+  <topic_permalink>7-30-reports</topic_permalink>
+  <has_feedback>1</has_feedback>
+  <show_in_pdf>0</show_in_pdf>
+  <folder_id>121731</folder_id>
+  <file_name>7__30_Reports.html</file_name>
+  <topic_fid>0</topic_fid>
+</page>
+<page>
+  <topic_id>1803947</topic_id>
+  <topic_type>0</topic_type>
+  <topic_title>Features of Dependency Maps</topic_title>
+  <topic_status>1</topic_status>
+  <topic_toc>1</topic_toc>
+  <toc_name>依赖映射的特点</toc_name>
+  <topic_index>0</topic_index>
+  <index_name></index_name>
+  <topic_permalink>dependency-mapping-features</topic_permalink>
+  <has_feedback>1</has_feedback>
+  <show_in_pdf>0</show_in_pdf>
+  <folder_id>121724</folder_id>
+  <file_name>Features_of_Dependency_Maps.html</file_name>
+  <topic_fid>0</topic_fid>
+</page>
+  </pages>
+  <folders>
+    <folder>
+    <folder_id>121724</folder_id>
+    <parent_id>t;1804110</parent_id>
+    <link_url></link_url>
+    <folder_name>应用发现和依赖映射</folder_name>
+  <folder_tid>0</folder_tid>
+  </folder>
+    <folder>
+    <folder_id>121725</folder_id>
+    <parent_id>t;1804110</parent_id>
+    <link_url></link_url>
+    <folder_name>应用性能</folder_name>
+  <folder_tid>0</folder_tid>
+  </folder>
+    </folders>
+<orders>
+    <order>
+    <node_id>121732</node_id>
+    <node_type>F</node_type>
+    <node_order>5</node_order>
+    <parent_id>t;1804110</parent_id>
+  </order>
+    <order>
+    <node_id>121730</node_id>
+    <node_type>F</node_type>
+    <node_order>1</node_order>
+    <parent_id>t;1804110</parent_id>
+  </order>
+      <order>
+    <node_id>1804110</node_id>
+    <node_type>T</node_type>
+    <node_order>2</node_order>
+    <parent_id>0</parent_id>
+  </order>
+</orders>
+</site>
