@@ -1,0 +1,25 @@
+
+
+table{
+    width:98%;
+    align-self: left;
+}
+th{
+    background-color:rgb(240,240,240);
+    text-align:left;
+}
+table,th,td{
+    border:solid 1px rgb(204,204,204);
+    border-collapse:collapse;
+    padding:5px;
+    word-wrap: break-word;
+}
+body {
+background-color:#FFF;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+padding:15px;
+margin: 0px;
+margin-right: 0px;
+margin-bottom: 20px;
+}
